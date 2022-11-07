@@ -1,0 +1,22 @@
+{
+  "name": "at.matkollin",
+  "version": "1.0.0",
+  "description": "Prew is a CLI that is able to generate spring microservices templates",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matkollin/prew.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "matkollin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matkollin/prew/issues"
+  },
+  "homepage": "https://github.com/matkollin/prew#readme"
+}
